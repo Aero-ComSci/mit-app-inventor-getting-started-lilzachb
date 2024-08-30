@@ -1,12 +1,3 @@
-# CSE-MIT-AI-CookieSim
-
-In this repository you will be turning in your cookie clicker sim created on MIT app inventor
-
-## What to include
-
-1. Your source file, this can be obtained by clicking on Projects / Export selected project to my computer![image](https://github.com/user-attachments/assets/f99cff16-16e3-4e1e-afc7-9da69f0e47f4) __place on files__ Use the file upload
-2. Image of your design view, __place on read me__ via screenshot then copy paste
-3. Image of your code, can be done by right clicking and download blocks as image or by screenshot, __place on readme__
-4. Add a quick reflection(2 sentences) about what was difficult __Place on Readme__
-
-
+![Screenshot 2024-08-27 122515](https://github.com/user-attachments/assets/5901d0c1-98fa-4c08-98df-ec1a885f480f)
+![Screenshot 2024-08-27 122553](https://github.com/user-attachments/assets/2cc6f26c-9b75-43b7-9807-bb0e807971a8)
+I was able to learn and use the MIT app inverntor tool to help me discover how to make code do what I want it to do by a series of commands. It has really helped me have a great start and helps me get familiar to similar things in the future.
